@@ -11,5 +11,5 @@
 10. Open link http://localhost:3000
 11. Click on `Reindex`
 
-![Screenshot1](screenshots\Screenshot1.png)
-![Screenshot2](screenshots\Screenshot2.png)
+![Screenshot1](/screenshots/Screenshot1.png)
+![Screenshot2](/screenshots/Screenshot2.png)
