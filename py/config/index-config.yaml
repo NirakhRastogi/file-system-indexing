@@ -1,0 +1,7 @@
+index:
+  include-drives:
+    - D://
+  exclude-dot-files: true
+  excluded-paths:
+    - config
+    - node_modules
