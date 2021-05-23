@@ -1,8 +1,0 @@
-server:
-  port: 8080
-
-index:
-  directory: "D:\\Learning\\FSIndexer\\indexes"
-  data:
-    file: "D:\\Learning\\FSIndexer\\data\\index.data"
-  max-top-docs: 10
